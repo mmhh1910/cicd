@@ -9,4 +9,3 @@ done
 EOF
 
 ENTRYPOINT /app/run.sh
-
